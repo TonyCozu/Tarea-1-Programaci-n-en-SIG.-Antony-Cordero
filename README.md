@@ -4,7 +4,9 @@ Este repositorio corresponde a la Tarea 1 del curso [Programación en SIG GF-065
 ## **Tema: Geomorfología Glaciar y Riesgos ante el Cambio Climático.**         
 
 
-### A traves del siguiente ensayo se desea exponer que amenazas a poblaciones y socioeconomías representan el derretimiento de los glaciares, causado principalemte por los efectos del cambio climatico.    
+### Antecedentes y Elementos    
+
+A traves del siguiente ensayo se desea exponer que amenazas a poblaciones y socioeconomías representan el derretimiento de los glaciares, causado principalemte por los efectos del cambio climatico.    
 
 La deglaciación ha llegado a ser un problema importante para poblados humanos y el desarrollo de comunidades en altas montañas, como en los Andes o el Himalaya, y en los océanos. Existen varias amenazas o eventos principales derivados del derretimiento de glaciares: 
 
@@ -39,6 +41,7 @@ Fuente: [Laboratorio de Glaciología](https://glaciologia.cl/inicio/riesgos-asoc
 **Imagen 4** Inudaciones por derretimiento de glaciar, Pakistán.       
 Fuente: [Infobae](https://www.infobae.com/america/mundo/2018/07/20/derretimiento-de-glaciar-provoca-inundaciones-en-pakistan/)    
 
+### Reflexiones.     
 
 Los glaciares son auténticos reservorios de agua dulce, presentan varios beneficios para la sociedad como el suministro de agua vital para la vida aledaña a ellos, el turismo, la observación de estos paisajes, práctica de deportes, obtención de energía hidroeléctrica y regadío de áreas agrícolas. Por tanto, el cambio climático junto al exceso de calor y el posterior derretimiento de los glaciares ha generado condiciones que propician la reducción del suministro de agua, afectación en los usos humanos, y el aumento en el riesgo de avalanchas y desbordamiento de lagos. 
 Es responsabilidad del ser humano y de las futuras generaciones la conservación de estos ecosistemas naturales y el uso de fuentes de energía no contaminantes que puedan contribuir a reducir el calentamiento global y evitar la desaparición de los glaciares en todo el mundo.
