@@ -23,22 +23,22 @@ Los lagos de represamiento glaciar, representan un riesgo para las zonas de acti
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg/1920px-Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg" width="200" height="">
 
-**Imagen 1** Iceberg Cabo York, Groenlandia.      
+**Imagen 1**. Iceberg Cabo York, Groenlandia.      
 Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Iceberg)     
 
 <img src= "https://static.nationalgeographic.es/files/styles/image_3200/public/2738.600x450.webp?w=710&h=533 " width="200" height="">
 
-**Imagen 2** Avalanchas de Hielo.        
+**Imagen 2**. Avalanchas de Hielo.        
 Fuente: [National Geographic](https://www.nationalgeographic.es/medio-ambiente/avalanchas)      
 
-<img src= "https://glaciologia.cl/wp-content/uploads/2020/10/cerroLargo.png " width="200" height=""> 
+<img src= "https://es-academic.com/pictures/eswiki/51/300px-Pogled_kum_ezerata_ot_biloto.JPG" width="200" height=""> kkkkkk
 
-**Imagen 3** Lagos de represamiento glaciar, Laguna Cerro Largo.      
-Fuente: [Laboratorio de Glaciología](https://glaciologia.cl/inicio/riesgos-asociados-a-glaciares/)
+**Imagen 3**. Lagos de represamiento glaciar, Bulgaria.      
+Fuente: [Academic](https://es-academic.com/dic.nsf/eswiki/1345430)     
 
 <img src= "https://www.infobae.com/new-resizer/q-CI2Zy4E__A65PO7BG2mlokb2s=/992x558/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/07/20201455/inundaciones-pakistan.jpg" width="200" height="">
 
-**Imagen 4** Inudaciones por derretimiento de glaciar, Pakistán.       
+**Imagen 4**. Inudaciones por derretimiento de glaciar, Pakistán.       
 Fuente: [Infobae](https://www.infobae.com/america/mundo/2018/07/20/derretimiento-de-glaciar-provoca-inundaciones-en-pakistan/)    
 
 ### Reflexiones.     
