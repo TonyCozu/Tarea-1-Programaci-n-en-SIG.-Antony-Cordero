@@ -31,7 +31,7 @@ Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Iceberg)
 **Imagen 2**. Avalanchas de Hielo.        
 Fuente: [National Geographic](https://www.nationalgeographic.es/medio-ambiente/avalanchas)      
 
-<img src= "https://es-academic.com/pictures/eswiki/51/300px-Pogled_kum_ezerata_ot_biloto.JPG" width="200" height=""> kkkkkk
+<img src= "https://es-academic.com/pictures/eswiki/51/300px-Pogled_kum_ezerata_ot_biloto.JPG" width="200" height="">      
 
 **Imagen 3**. Lagos de represamiento glaciar, Bulgaria.      
 Fuente: [Academic](https://es-academic.com/dic.nsf/eswiki/1345430)     
