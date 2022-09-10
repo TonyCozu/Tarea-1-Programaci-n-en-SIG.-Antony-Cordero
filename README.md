@@ -19,9 +19,12 @@ Otra amenaza son las avalanchas de hielo, que afectan a rutas, poblados enteros 
 
 Los lagos de represamiento glaciar, representan un riesgo para las zonas de actividad humana, ya que puede ocurrir que el lago se rellene por completo y vierta el material y agua por canales de desbordamiento, o haya rupturas súbitas de la presa natural, dando lugar a inundaciones catastróficas y movimientos enormes de sedimentos; estos eventos han ocurrido en lugares como Islandia (donde se les conoce como: [*jokulhlaups*](https://es.wikipedia.org/wiki/J%C3%B6kulhlaup)), Los [Alpes](https://geografia.laguia2000.com/relieve/los-alpes) en el Valle de Otz, Glaciar Vernagt, Allalin y Gietroz y Glaciar Tete Rousse (1892); muy relacionado a esto están las inundaciones producidas por desbordamiento de morrenas terminales, como el ocurrido en el valle del Rio Santa Ana en los [Andes Peruanos](https://es.wikipedia.org/wiki/Sierra_del_Per%C3%BA) (1941) que ocasionó la muerte de 6.000 personas. Junto a esto, el derretimiento de todos los glaciares del mundo se estima que podría aumentar el nivel del mar en unos siete metros.   
 
-![Iceberg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg/1920px-Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg)     
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg/1920px-Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg" width="200" height="">
+Imagen 1. Iceberg Cabo York, Groenlandia.     
 
-![Alud](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Avalanche_on_Everest.jpg/1280px-Avalanche_on_Everest.jpg)
+
+
+
 
 Los glaciares son auténticos reservorios de agua dulce, presentan varios beneficios para la sociedad como el suministro de agua vital para la vida aledaña a ellos, el turismo, la observación de estos paisajes, práctica de deportes, obtención de energía hidroeléctrica y regadío de áreas agrícolas. Por tanto, el cambio climático junto al exceso de calor y el posterior derretimiento de los glaciares ha generado condiciones que propician la reducción del suministro de agua, afectación en los usos humanos, y el aumento en el riesgo de avalanchas y desbordamiento de lagos. 
 Es responsabilidad del ser humano y de las futuras generaciones la conservación de estos ecosistemas naturales y el uso de fuentes de energía no contaminantes que puedan contribuir a reducir el calentamiento global y evitar la desaparición de los glaciares en todo el mundo.
