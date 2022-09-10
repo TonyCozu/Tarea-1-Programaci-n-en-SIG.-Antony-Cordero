@@ -20,9 +20,20 @@ Otra amenaza son las avalanchas de hielo, que afectan a rutas, poblados enteros 
 Los lagos de represamiento glaciar, representan un riesgo para las zonas de actividad humana, ya que puede ocurrir que el lago se rellene por completo y vierta el material y agua por canales de desbordamiento, o haya rupturas súbitas de la presa natural, dando lugar a inundaciones catastróficas y movimientos enormes de sedimentos; estos eventos han ocurrido en lugares como Islandia (donde se les conoce como: [*jokulhlaups*](https://es.wikipedia.org/wiki/J%C3%B6kulhlaup)), Los [Alpes](https://geografia.laguia2000.com/relieve/los-alpes) en el Valle de Otz, Glaciar Vernagt, Allalin y Gietroz y Glaciar Tete Rousse (1892); muy relacionado a esto están las inundaciones producidas por desbordamiento de morrenas terminales, como el ocurrido en el valle del Rio Santa Ana en los [Andes Peruanos](https://es.wikipedia.org/wiki/Sierra_del_Per%C3%BA) (1941) que ocasionó la muerte de 6.000 personas. Junto a esto, el derretimiento de todos los glaciares del mundo se estima que podría aumentar el nivel del mar en unos siete metros.   
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg/1920px-Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg" width="200" height="">
-Imagen 1. Iceberg Cabo York, Groenlandia.     
+**Imagen 1.** Iceberg Cabo York, Groenlandia.
+Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Iceberg)     
 
+<img src= "https://static.nationalgeographic.es/files/styles/image_3200/public/2738.600x450.webp?w=710&h=533 " width="200" height="">
+**Imagen 2.** Avalanchas de Hielo.
+Fuente: [National Geographic](https://www.nationalgeographic.es/medio-ambiente/avalanchas)      
 
+<img src= "https://glaciologia.cl/wp-content/uploads/2020/10/cerroLargo.png " width="200" height="">
+**Imagen 3.** Lagos de represamiento glaciar, Laguna Cerro Largo.
+Fuente: [Laboratorio de Glaciología](https://glaciologia.cl/inicio/riesgos-asociados-a-glaciares/)
+
+<img src= "https://www.infobae.com/new-resizer/q-CI2Zy4E__A65PO7BG2mlokb2s=/992x558/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/07/20201455/inundaciones-pakistan.jpg" width="200" height="">
+**Imagen 4.** Inudaciones por derretimiento de glaciar, Pakistán.
+Fuente: [Infobae](https://www.infobae.com/america/mundo/2018/07/20/derretimiento-de-glaciar-provoca-inundaciones-en-pakistan/)
 
 
 
