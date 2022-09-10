@@ -1,5 +1,5 @@
 # **Tarea 1 Programacin en SIG. Antony Cordero**
-Este repositorio corresponde a la Tarea 1 del curso [Programación en SIG GF-0657] (https://gf0657-programacionsig.github.io/2022-ii/index.html)     
+Este repositorio corresponde a la Tarea 1 del curso [Programación en SIG GF-0657](https://gf0657-programacionsig.github.io/2022-ii/index.html)     
 
 ## **Tema: Geomorfología Glaciar y Riesgos ante el Cambio Climático.**         
 
